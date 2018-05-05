@@ -1,2 +1,2 @@
 # cprepohub
-CP Repo GitHub
+CP Repo GitHub for openSAP course
